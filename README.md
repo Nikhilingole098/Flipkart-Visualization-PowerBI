@@ -64,8 +64,4 @@ Open Flipkart Visualization.pbix in Power BI Desktop.
 
 Explore the interactive dashboard.
 
-🤝 Contributing
-Feel free to fork the repo, improve the dashboard, and open a pull request!
-
-📬 Contact
-For any feedback or collaboration, reach out via GitHub Issues or email.
+<img width="1229" height="697" alt="Dashboard" src="https://github.com/user-attachments/assets/574dbf8f-cec4-4849-91dd-b6e82bbe3cf4" />
